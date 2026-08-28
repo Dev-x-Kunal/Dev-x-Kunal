@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi 👋, I'm Kunal Maity
 
-💻 Aspiring Software Developer | Java Developer | Problem Solver
+💻 Aspiring Software Developer || Java Developer || Problem Solver
 
 I'm currently building my programming fundamentals with Java
 and working towards becoming a strong Software Developer.
